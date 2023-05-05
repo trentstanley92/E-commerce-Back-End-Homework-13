@@ -24,28 +24,6 @@
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "sequelize": "^6.31.1"
-  },
-  "development": {
-    "username": "root",
-    "password": "rootroot",
-    "database": "ecommerce_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "test": {
-    "username": "root",
-    "password": "rootroot",
-    "database": "ecommerce_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "production": {
-    "username": "root",
-    "password": "rootroot",
-    "database": "ecommerce_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
   }
 
-  
 }
